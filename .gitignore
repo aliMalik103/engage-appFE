@@ -24,7 +24,7 @@ project.xcworkspace
 
 # Android/IntelliJ
 #
-android/app/
+android/app/src/
 ios/
 build/
 .idea
