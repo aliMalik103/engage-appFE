@@ -25,7 +25,7 @@ project.xcworkspace
 # Android/IntelliJ
 #
 
-ios/
+
 build/
 .idea
 .gradle
